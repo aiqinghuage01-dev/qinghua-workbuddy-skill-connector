@@ -1,0 +1,22 @@
+{
+  "name": "清华哥技能助手",
+  "name_zh": "清华哥技能助手",
+  "name_en": "Qinghua Skill Assistant",
+  "description": "Install and check the local card-video environment in WorkBuddy. Test release with background task progress.",
+  "description_zh": "在本机检查、初始化和修复卡片视频环境，生成安装测试片与卡片视频。首版测试中，无需自建服务器。",
+  "description_en": "Check, initialize and repair the local card-video environment, generate test clips and card videos. No server required.",
+  "source": "qinghua-skill-assistant",
+  "type": "mcp",
+  "version": "0.1.0",
+  "minWorkbuddyVersion": "5.0.0",
+  "examples_zh": [
+    "帮我检查卡片视频环境",
+    "初始化环境并生成安装测试片",
+    "把这段确定好的文案做成卡片视频"
+  ],
+  "examples_en": [
+    "Check my card-video environment",
+    "Initialize the environment and create a test clip",
+    "Turn my finalized script into a card video"
+  ]
+}

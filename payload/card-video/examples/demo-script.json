@@ -1,0 +1,32 @@
+{
+  "slides": [
+    {
+      "lines": [
+        {
+          "text": "先把一件事做好",
+          "style": "title"
+        },
+        {
+          "text": "确定文案，再制作视频",
+          "style": "body"
+        }
+      ],
+      "narration": "先把一件事做好。确定文案，再制作视频。",
+      "duration": 4
+    },
+    {
+      "lines": [
+        {
+          "text": "让工具完成重复工作",
+          "style": "emphasis"
+        },
+        {
+          "text": "成片以后，再检查和发布",
+          "style": "body"
+        }
+      ],
+      "narration": "让工具完成重复工作。成片以后，再检查和发布。",
+      "duration": 4
+    }
+  ]
+}
