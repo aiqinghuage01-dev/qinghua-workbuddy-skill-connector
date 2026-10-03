@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "qinghua-skill-assistant": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "--yes",
+        "--package=https://raw.githubusercontent.com/aiqinghuage01-dev/qinghua-workbuddy-skill-connector/af1bb6048b838700e35be753dc35274e92cb0c9c/qinghua-workbuddy-skill-kit-0.1.0.tgz",
+        "qinghua-skill-kit"
+      ],
+      "runtime": {
+        "type": "node",
+        "version": "20"
+      },
+      "npmRegistries": [
+        "https://registry.npmmirror.com",
+        "https://registry.npmjs.org"
+      ],
+      "timeout": 120000
+    }
+  }
+}
